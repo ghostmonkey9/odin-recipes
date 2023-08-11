@@ -1,40 +1,46 @@
 *{
     box-sizing: border-box;
+    background: purple;
 
 }
 
-.title{ 
-    display: block;
+
+.heading{ 
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
-    color: maroon;
-    background-color: black;
+    color: Black;
+    
 
 }
 
 .returnlink{
-    display:block
+    display:block;
+    color: aqua;
 }
 
 .intro{
     display:block;
     font-family: 'Times New Roman', Times, serif;
-    color: maroon;
-    background-color: black;
+    color: red;
+    background-color: purple;
+    font-size: larger;
 
 }
 
 .ingredients{
-    display: flex;
+    display: inline-block;
     background-color: purple;
-    color: maroon;
+    color: red;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
 }
 
 .steps{
-    display: flex;
+    display: inline-block;
     background-color: purple;
-    color:maroon;
+    color:red;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+
+
+
