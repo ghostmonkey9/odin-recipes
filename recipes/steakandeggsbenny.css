@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+
+}
+
+.title{ 
+    display: block;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: maroon;
+    background-color: black;
+
+}
+
+.returnlink{
+    display:block
+}
+
+.intro{
+    display:block;
+    font-family: 'Times New Roman', Times, serif;
+    color: maroon;
+    background-color: black;
+
+}
+
+.ingredients{
+    display: flex;
+    background-color: purple;
+    color: maroon;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.steps{
+    display: flex;
+    background-color: purple;
+    color:maroon;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
